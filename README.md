@@ -26,8 +26,7 @@ Steps involved in the project:
 ![Tableau Dashboard](https://github.com/Shagun6395/Data-Analyst-Portfolio-Project/blob/main/snapshot%20of%20Tableau%20Dashboard.jpg)
 
 
-📑 Dataset
-The dataset used for this project can be accessed here:[Dataset](https://github.com/Shagun6395/Data-Analyst-Portfolio-Project/blob/main/Dataset.xlsx)
+##📑The dataset used for this project can be accessed here:[Dataset](https://github.com/Shagun6395/Data-Analyst-Portfolio-Project/blob/main/Dataset.xlsx)
 
 
 📌 Key Insights
