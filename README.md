@@ -2,7 +2,7 @@
 
 This repository presents my Data Analyst Portfolio Project, where I demonstrate end-to-end data analytics skills by working on a real-world dataset and creating dashboards in three different applications: Excel, Power BI, and Tableau. The objective of this project is to show how the same dataset can be analyzed, processed, and visualized across multiple tools, highlighting flexibility and proficiency in handling diverse business intelligence platforms.
 
-)
+
 
 🔎 Project Overview:
 
