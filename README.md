@@ -1,4 +1,4 @@
-📊 Data Analyst Portfolio Project:
+📊 Data Analyst Portfolio Project
 
 This repository presents my Data Analyst Portfolio Project, where I demonstrate end-to-end data analytics skills by working on a real-world dataset and creating dashboards in three different applications: Excel, Power BI, and Tableau. The objective of this project is to show how the same dataset can be analyzed, processed, and visualized across multiple tools, highlighting flexibility and proficiency in handling diverse business intelligence platforms.
 
@@ -17,12 +17,11 @@ Steps involved in the project:
 * Tableau: Advanced visual storytelling, filters, and drill-down features.
 
 📂 Dashboards
-![Excel Dashboard](https://github.com/Shagun6395/Data-Analyst-Portfolio-Project/blob/main/snapshot%20of%20Excel%20Dashboard.png
 
-)
 
-![Power BI Dashboard](https://github.com/Shagun6395/Data-Analyst-Portfolio-Project/blob/main/snapshot%20of%20PowerBI%20Dashboard.png
-)
+![Excel Dashboard](https://github.com/Shagun6395/Data-Analyst-Portfolio-Project/blob/main/snapshot%20of%20Excel%20Dashboard.png)
+
+![Power BI Dashboard](https://github.com/Shagun6395/Data-Analyst-Portfolio-Project/blob/main/snapshot%20of%20PowerBI%20Dashboard.png)
 
 ![Tableau Dashboard](https://github.com/Shagun6395/Data-Analyst-Portfolio-Project/blob/main/snapshot%20of%20Tableau%20Dashboard.jpg)
 
