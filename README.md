@@ -1,4 +1,6 @@
 📊 Data Analyst Portfolio Project
+
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
 
